@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá! Sou Renata Mendonça
 
-<!--
-**biolorenata-lab/biolorenata-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Biologist | Environmental Management | Sustainability & ESG**
 
-Here are some ideas to get you started:
+Bióloga com formação em Ciências Biológicas e experiência em gestão e acompanhamento ambiental, análise ambiental, educação e docência.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+- Sustainability and ESG
+- Environmental and Socio-environmental Management
+- Environmental Indicators
+- Environmental and Ecological Modeling
+- Geospatial Technologies and Spatial Analysis
+- Water Resources and Biodiversity Conservation
+
+## Skills
+- Environmental Data Analysis
+- Environmental Diagnostics
+- Wastewater and Waste Management
+- Environmental Education
+- Scientific and Technical Interpretation
+- Exploratory Analysis and Modeling
+
+## Academic Background
+- Biological Sciences – CEDERJ
+- Graduate studies in Ecology – UNICAMP (coursework completed)
+
+## Professional Interests
+
+Developing and sharing projects involving environmental analysis, sustainability, natural resource management and biodiversity conservation.
